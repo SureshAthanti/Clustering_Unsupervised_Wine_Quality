@@ -1,4 +1,4 @@
-# Cluetring and Unsupervised learning project. 
+# Clustering and Unsupervised learning project. 
 
 ### Dataset
 The dataset was taken from kaggle.
