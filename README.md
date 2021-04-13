@@ -6,7 +6,7 @@ The dataset was taken from kaggle.
 
 #### Mtedology Followed:
 1. visualized the distribution of all features.
-2. Created plots to visualize the data using PCA (top two principal components) and discussed about diamentionality reduction.
+2. Created plots to visualize the data using PCA (top two principal components) and discussed about dimentionality reduction.
 3. Created plots to visualize the data using t-SNE and discussed about parameter tuning.
 4. Used different clustering algorithms were used for the model building. 
    1. K-Means 
